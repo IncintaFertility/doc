@@ -1,0 +1,20 @@
+name: Update Docs
+on:
+  repository_dispatch:
+    types: [update_markdown]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write updated markdown
+        run: |
+          echo "${{ github.event.client_payload.content }}" > marketing_knowledge.md
+      - name: Commit and push
+        run: |
+          git config user.name "Dify Bot"
+          git config user.email "bot@dify.local"
+          git add marketing_knowledge.md
+          git commit -m "Auto update from Dify"
+          git push
