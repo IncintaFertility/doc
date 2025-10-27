@@ -11,7 +11,7 @@ jobs:
 
       - name: Decode and write updated markdown
         run: |
-          CLEANED=$(echo "${{ github.event.client_payload.content }}" | tr -d '\n\r ' )
+          CLEANED=$(echo "${{ github.event.client_payload.content }}")
           echo "$CLEANED" | base64 --decode > marketing_knowledge.md
 
       - name: Commit and push
