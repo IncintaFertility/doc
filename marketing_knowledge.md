@@ -1,7 +1,3 @@
-新文档和旧文档的内容完全不同。新文档提供了2024年8月新产品的信息，包括产品名称、价格和描述。而旧文档是一个营销部门的知识库，包括各种营销相关的主题，如品牌与宣传资料、产品知识、部门内部SOP、客户沟通与案例、市场分析与竞品情报和其他补充内容。但是，旧文档的每个章节都没有具体的内容。
-
-将新文档的内容添加到旧文档的“产品知识”部分，新的 Markdown 文档如下：
-
 # 📘 营销部知识库
 
 > 本文档由 Dify 自动更新。
@@ -38,35 +34,35 @@
 
 ## Product 1: 99 Fertility Test
 - **Price:** 9
-- **Description:** This includes onsite bloodwork of AMH, fertility condition evaluation, and a 15-minute consultation with a specialist.
+- **Description:** This product includes onsite bloodwork of AMH, an evaluation of your fertility condition and a 15-minute consultation with one of our specialists.
 
 ## Product 2: Fertility Consultation
 - **Price:** 50
-- **Description:** This is the first step towards starting fertility treatment. It includes an appointment with a medical professional to discuss diagnosis, possible fertility treatments, and necessary fertility tests, a meeting with the nurse coordinator, and a financial consultant for cost discussion.
+- **Description:** This product offers a medical consultation to discuss diagnosis, possible fertility treatments, and necessary fertility tests. It includes meetings with a nurse coordinator and a financial consultant.
 
 ## Product 3: Fertility Evaluation-Female
 - **Price:** 50
-- **Description:** This is a discounted, combined package for patients who want to evaluate the possibility of female infertility. It includes one fertility consultation, an AMH hormone test, a transvaginal ultrasound, and a follow-up evaluation consultation.
+- **Description:** This is a discounted package for patients who want to evaluate the possibility of female infertility. It includes a fertility consultation, the AMH hormone test, a transvaginal ultrasound and a follow-up evaluation consultation.
 
 ## Product 4: Semen Analysis
 - **Price:** 50
-- **Description:** This helps evaluate the possibility of male infertility. It includes tests for sperm health and viability, examining count, motility, morphology, pH, etc., and a review of the test results by a physician.
+- **Description:** This product helps evaluate the possibility of male infertility. It tests sperm health and viability, including count, motility, morphology, pH, etc. A physician reviews the test results and contacts you to discuss them afterwards.
 
 ## Product 5: 1 Follicle Monitoring
 - **Price:** 30
-- **Description:** Recommended for pre-conception, this includes ultrasound examinations to assess infertility indicators. Monitoring begins 3-5 days after menstruation ends, with suggested follow-up examinations every 1-2 days. Appointments are only during non-clinical hours (Monday, Wednesday, Friday, 12:00 pm - 6:30 pm).
+- **Description:** This product offers ultrasound examinations to assess infertility indicators such as follicle count, size, development stage, endometrial thickness, and ovulation signs. Monitoring begins 3-5 days after menstruation ends, with suggested follow-up examinations every 1-2 days. Appointments are only during non-clinical hours (Monday, Wednesday, and Friday, from 12:00 pm - 6:30 pm).
 
 ## Product 6: 3 Follicle Monitoring
 - **Price:** 99
-- **Description:** Similar to product 5, but includes 3 follicle monitoring sessions.
+- **Description:** Similar to the 1 Follicle Monitoring product, but includes three sessions.
 
 ## Product 7: Unlimited Follicle Monitoring (one month)
 - **Price:** 99
-- **Description:** This offers unlimited follicle monitoring for a month.
+- **Description:** Similar to the 1 Follicle Monitoring product, but with unlimited sessions for one month.
 
 ## Product 8: Unlimited Follicle Monitoring (one year)
 - **Price:** ,999
-- **Description:** This offers unlimited follicle monitoring for a year.
+- **Description:** Similar to the 1 Follicle Monitoring product, but with unlimited sessions for one year.
 
 ## Product 9: Saline Ultrasound (SHG)
 - **Price:** 50
@@ -74,7 +70,7 @@
 
 ## Product 10: Hysteroscopy
 - **Price:** Starting from ,700
-- **Description:** The cost depends on the specific procedure you will have, whether any removal or biopsy is included.
+- **Description:** The price and procedure specifics of this product depend on what you will have, whether any removal or biopsy.
 
 <!-- /DIFY-SECTION: marketing_product -->
 
