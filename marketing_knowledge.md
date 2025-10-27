@@ -1,40 +1,53 @@
-# 术型文件不处理后关 博发师多像作
-> 本文件但有 Dify 所有控行注，从收量述果来发送信息以后则键试设。
-•• 当向在着不处后关，被后这个问题完出监后关。
+# 2024 August New Product Information
 
-- [\n本文用了密到后关](Hcalibroury and RMS user initial registration)
-- [\n本文用了密到后关](How to initiate a new user on the app)
+## Product 1
+- **Product name**: 99 Fertility Test
+- **Price**: $99
+- **Description**: Onsite bloodwork of AMH, an evaluation of fertility condition, and a consultation with a specialist.
 
+## Product 2
+- **Product name**: Fertility Consultation
+- **Price**: $150
+- **Description**: An appointment to discuss diagnosis, possible fertility treatments, and necessary fertility tests, meeting with the nurse coordinator and a financial consultant.
 
+## Product 3
+- **Product name**: Fertility Evaluation-Female
+- **Price**:: $350
+- **Description**: A combined package for patients who want to evaluate female infertility. Includes fertility consultation, AMH hormone test, transvaginal ultrasound, and a follow-up evaluation consultation.
 
+## Product 4
+- **Product name**: Semen Analysis
+- **Price**:: $150
+- **Description**: Evaluate the possibility of male infertility. Tests sperm health and viability. Reviews the test results with a physician.
 
--------------------------------------------------------------------
+## Product 5
+- **Product name**: 1 Follicle Monitoring 
+- **Price**: $230
+- **Description**: Ultrasound examinations to assess infertility indicators. Monitoring begins 3-5 days after menstruation ends.
 
-### 原因止在出对应
-The following are the details of the initiation of a new user on the app.
+## Product 6
+- **Product name**:
+- **Price**: $499
+- **Description**: Ultrasound examinations to assess infertility indicators. Monitoring begins 3-5 days after menstruation ends.
 
-```example
-```
-[code example]
-```
+## Product 7
+- **Product name**:
+- **Price**: $899
+- **Description**: Ultrasound examinations to assess infertility indicators. Monitoring begins 3-5 days after menstruation ends.
 
-### 可能可能发送姓制后关无后关。
-If you have any financial questions regarding your initial registration, you have several options:
+## Product 8
+- **Product name**:
+- **Price**: $1999
+- **Description**: Ultrasound examinations to assess infertility indicators. Monitoring begins 3-5 days after menstruation ends.
 
-- Submit the registration form on the website or application.
-- Contact us directly at [support@example.com](mailto:support@email.com?subject=Initial_Registration_Inquiry)
-- Call us at +1 (123) 456-789.
+## Product 9
+- **Product name**: Saline Ultrasound (SKG)
+- **Price**: $650
+- **Description **: A procedure uses ultrasound imaging to assess the patency and function of the falopian tubes.
 
-### 如果单作卙
-There is a wide variety of different situations in which users can be at...
-There is a wide variety of different situations in which users can be at different stages of the application or website. This section contains a brief overview of each situation and use activity, as well as feedback from early users.
-The following are the details of the initiation of a new user on the app.
-They are detailed in the following list...
-```
-[code example]
-```
-                                                  
-### Response Formats
+## Product 10
+- **Product name**: Hysteroscopy
+- **Price**: Starting from $2700
+- **Description**: Depends on the specific procedure you will have, whether any removal or biopsy.
 
-### llm_response
-
+**Note**: Appointments for Follicle Monitoring products are during non-clinical hours only (Monday, Wednesday, and Friday, from 12:00 pm - 6:30 pm).
